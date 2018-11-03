@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1540147889 source:d:\a-gwiazdka\c++\a-gwiazdka\main.cpp
+	<iostream>
+	<vector>
+
+1540502813 source:d:\a-gwiazdka\c++\a-gwiazdka — kopia\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<math.h>
+
